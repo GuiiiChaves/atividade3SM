@@ -1,0 +1,21 @@
+{
+    "name": "Guilherme Chaves",
+    "short_name": "GC",
+    "description": "Plataforma de Aprendizado Online para Desenvolvimento de Habilidades",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "icons": [
+      {
+        "purpose": "any maskable",
+        "src": "https://cdn.discordapp.com/attachments/661424710541770803/1144766936551534703/IMG_8848.jpg",
+        "sizes": "144x144",
+        "type": "any",
+        "splash_pages": null
+        
+      }
+    ]
+    
+  }
+  
